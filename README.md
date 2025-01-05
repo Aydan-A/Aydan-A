@@ -9,8 +9,6 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aydan-A&layout=compact&theme=radical)
 
-  ![React](https://img.shields.io/badge/React-v17.0.2-blue)
-
   
   
 
