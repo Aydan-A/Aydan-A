@@ -7,6 +7,9 @@
 - ⚡ Fun fact: I once picked up a new language in just a few months of travel.
 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aydan-A&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aydan-A&layout=compact&theme=radical)
+
 
 <!---
 Aydan-A/Aydan-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
