@@ -9,9 +9,11 @@
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aydan-A&layout=compact&theme=radical)
 
-  ![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
+  ![GitHub followers](https://img.shields.io/github/followers/Aydan-A?style=social)
   
-  ![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/Aydan-A?style=social)
+  
+  
 
 
 
