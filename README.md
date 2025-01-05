@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aydan-A
 - 👀 I’m interested in pushing the boundaries of front-end development.
-- 🌱 I’m currently learning React Hooks.
+- 🌱 I’m currently learning React Native.
 - 💞️** I’m looking to collaborate on** projects where I can contribute my front-end skills and learn from others.  
 - 📫 How to reach me ... You can find me on Linkedİn www.linkedin.com/in/aydan-abbasli
 - 😄 Pronouns: She
