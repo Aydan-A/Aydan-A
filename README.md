@@ -5,9 +5,6 @@
 - 📫 How to reach me ... You can find me on Linkedİn www.linkedin.com/in/aydan-abbasli
 - ⚡ Fun fact: I once picked up a new language in just a few months of travel.
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aydan-A&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aydan-A&layout=compact&theme=radical)
 
   
   
