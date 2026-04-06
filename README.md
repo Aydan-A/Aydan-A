@@ -1,42 +1,104 @@
-- 👋 Hi, I’m Aydan.
-- 👀 I’m interested in pushing the boundaries of front-end development.
-- 🌱 I’m currently learning React Native.
-- I’m looking to collaborate on projects where I can contribute my front-end skills and learn from others.  
-- 📫 How to reach me ... You can find me on Linkedİn www.linkedin.com/in/aydan-abbasli
-- ⚡ Fun fact: I once picked up a new language in just a few months of travel.
-
 <div align="center">
-	<img src="welcome-header.gif" alt="welcome to my github profile">
-	<br>
-	<br>
+
+# Hey there! I'm Aydan 👋
+### *Front-End Dev by day, language-learner by adventure* 🌍
+
+![Typing Cat](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydan-abbasli)
+[![Profile Views](https://komarev.com/ghpvc/?username=aydan-abbasli&style=for-the-badge&color=blueviolet)](https://github.com/aydan-abbasli)
+
 </div>
 
-**i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
+---
 
-<img src="party-furby.gif" align="right" width="60">
+## 👀 About Me
 
-<br>
+```javascript
+const aydan = {
+  passion:    "Pushing the boundaries of front-end development 🚀",
+  skills:     ["JavaScript", "React Native", "Shopify", "Shopify Plus", "Figma", "CSS Animation"],
+  superpower: "Turning Figma dreams into pixel-perfect, animated reality ✨",
+  shopify:    "Crafting custom Shopify & Shopify Plus experiences that convert 🛍️",
+  currentlyL: "Leveling up with React Native 📱",
+  lookingFor: "Collaborations where I can contribute & grow 🤝",
+  funFact:    "Picked up a new language in just a few months of travel ⚡🌍",
+  contact:    "linkedin.com/in/aydan-abbasli 📫",
+};
+```
 
-![](under-construction.gif)
+---
 
-<br>
+## 🚀 What I'm Up To
+
+<table>
+<tr>
+<td width="50%">
+
+**🔭 Currently Building**
+> Exploring the wild world of **React Native** and mobile-first experiences
+
+![Coding](https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif)
+
+</td>
+<td width="50%">
+
+**🤝 Open to Collaborate On**
+> Front-end projects where pixels meet purpose. Let's build something awesome!
+
+![Collab](https://media.giphy.com/media/Rpl1sKJ3bvnxe/giphy.gif)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+> *"I once picked up a new language in just a few months of travel."*
+> 
+> *(Spoiler: my keyboard might be multilingual too 🌐)*
+
+![Travel](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+
+</div>
+
+---
 
 
-<br>
+---
 
-![](counter.gif) ![](badge1.gif) ![](badge2.gif) ![](badge3.png) ![](badge4.gif) ![](badge5.gif) ![](badge6.gif)
+## 📫 Let's Connect!
 
-![](flames.gif)
- 
+<div align="center">
 
-![](flames.gif)
- 
-  
+Got a cool project? Want to jam on some front-end magic? Slide into my LinkedIn! 🎯
 
+[![LinkedIn](https://img.shields.io/badge/Say_Hello!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydan-abbasli)
 
+![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+---
 
-<!---
-Aydan-A/Aydan-A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"The best front-end is the one that makes users forget they're looking at code."* ✨
+
+</div>
