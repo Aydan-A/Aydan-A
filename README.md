@@ -15,16 +15,21 @@
 ## 👀 About Me
 
 ```javascript
-const aydan = {
-  passion:    "Pushing the boundaries of front-end development 🚀",
-  skills:     ["JavaScript", "React Native", "Shopify", "Shopify Plus", "Figma", "CSS Animation"],
-  superpower: "Turning Figma dreams into pixel-perfect, animated reality ✨",
-  shopify:    "Crafting custom Shopify & Shopify Plus experiences that convert 🛍️",
-  currentlyL: "Leveling up with React Native 📱",
-  lookingFor: "Collaborations where I can contribute & grow 🤝",
-  funFact:    "Picked up a new language in just a few months of travel ⚡🌍",
-  contact:    "linkedin.com/in/aydan-abbasli 📫",
-};
+class Aydan extends Developer {
+  constructor() {
+    super({
+      passion:    "Crafting seamless, boundary-breaking web experiences 🚀",
+      lookingFor: "Collaborations where I can contribute & grow 🤝",
+    });
+
+    this.skills     = ["JavaScript", "React Native", "Shopify", "Shopify Plus", "Figma", "CSS Animation"];
+    this.superpower = "Where Figma meets code, magic happens — pixel-perfect & animated 🎨✨";
+    this.shopify    = "Crafting custom Shopify & Shopify Plus experiences that convert 🛍️";
+    this.currently  = "Leveling up with React Native 📱";
+    this.funFact    = "Picked up a new language in just a few months of travel ⚡🌍";
+    this.contact    = "linkedin.com/in/aydan-abbasli 📫";
+  }
+}
 ```
 
 ---
