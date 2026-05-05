@@ -31,32 +31,6 @@ class Aydan extends Developer {
   }
 }
 ```
-
----
-
-## 🚀 What I'm Up To
-
-<table>
-<tr>
-<td width="50%">
-
-**🔭 Currently Building**
-> Exploring the wild world of **React Native** and mobile-first experiences
-
-![Coding](https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif)
-
-</td>
-<td width="50%">
-
-**🤝 Open to Collaborate On**
-> Front-end projects where pixels meet purpose. Let's build something awesome!
-
-![Collab](https://media.giphy.com/media/Rpl1sKJ3bvnxe/giphy.gif)
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 🛠️ Tech Stack
