@@ -5,6 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydan-abbasli)
 [![Profile Views](https://komarev.com/ghpvc/?username=aydan-abbasli&style=for-the-badge&color=blueviolet)](https://github.com/aydan-abbasli)
+<img width="896" height="896" alt="NUX_Octodex" src="https://github.com/user-attachments/assets/fd5d25ff-8bf0-4744-b933-b216cfd3d7b3" />
 
 </div>
 
