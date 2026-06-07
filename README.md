@@ -3,8 +3,6 @@
 # Hey there! I'm Aydan 👋
 ### *Front-End Dev by day, language-learner by adventure* 🌍
 
-![Typing Cat](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aydan-abbasli)
 [![Profile Views](https://komarev.com/ghpvc/?username=aydan-abbasli&style=for-the-badge&color=blueviolet)](https://github.com/aydan-abbasli)
 
